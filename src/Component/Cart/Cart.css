@@ -1,0 +1,11 @@
+.cart{
+position:sticky;
+top: 0;
+}
+.cart h4 {
+    font-weight: 500;
+    font-style: normal;
+    font-size: 21px;
+    line-height: 30px;
+    color: #1c2b35;
+}
